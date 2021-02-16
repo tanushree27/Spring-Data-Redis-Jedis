@@ -4,5 +4,5 @@
 - Start mysql server
 - Run and debug the project through terminal
 
-##Testing APIs
+## Testing APIs
 - Tryout Postman to test the APIs
